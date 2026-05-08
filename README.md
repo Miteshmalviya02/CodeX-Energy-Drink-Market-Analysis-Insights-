@@ -35,7 +35,9 @@ The goal of this analysis is to convert raw survey results into **actionable ins
 ### Who prefers energy drinks more?
 
 > **60% of consumers are male.**
+
 <img width="657" height="270" alt="image" src="https://github.com/user-attachments/assets/98eaba8e-07fc-4973-b960-4545a8757098" />
+
 
 Out of 10,000 respondents, **6,038 identified as male**, making them the dominant consumer group for energy drinks.
 
@@ -48,7 +50,8 @@ Out of 10,000 respondents, **6,038 identified as male**, making them the dominan
 - **50%+** of respondents belong to the **19–30** age group
 - When expanding to the full **15–30** range, this rises to **70%** of all respondents
 
-📊 *[Chart: Age Group Distribution]*
+<img width="716" height="318" alt="image" src="https://github.com/user-attachments/assets/c10175e1-5cde-4dda-8577-2842d39c8bdc" />
+
 
 ---
 
@@ -58,7 +61,7 @@ Out of 10,000 respondents, **6,038 identified as male**, making them the dominan
 
 - **3,373 respondents** aged 15–30 were reached via Online Ads — more than any other channel
 
-📊 *[Chart: Marketing Channel Reach by Age Group]*
+<img width="588" height="279" alt="image" src="https://github.com/user-attachments/assets/abe5e166-73fd-4375-b001-25651382cafe" />
 
 ---
 

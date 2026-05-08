@@ -211,9 +211,8 @@ While in the rest of the cities, people are willing to pay up to 150.
 
 ### Offers & Discounts
 
-- **City-specific pricing** experiments based on consumer expectations
-- **Festival Gift Sets** — leverage India's rich festival calendar across all 10 cities
-- **Bundle Packs** — 6-can packs at reduced cost to drive volume purchases
+In the previous recommendation, we saw that we can experiment with the price in different cities. Also, if changing the price does not go with the brand’s strategy, we can provide offers on buying the pack of 6 cans at a cheaper cost.
+Also, each of these cities celebrates multiple festivals throughout the year. We can come up with the gift set packs.
 
 ---
 
@@ -223,17 +222,18 @@ While in the rest of the cities, people are willing to pay up to 150.
 Target the 15–30 age group, which is highly active on social platforms. Running paid social ads will effectively reach the core consumer demographic.
 
 #### Influencer Marketing
-A tiered influencer approach for maximum brand impact:
+**Cheap** 
+Influencer marketing can be very cheap we set a strategy to target influencers and their audiences. We can work on a barter system or by paying some amount to the influencers.
 
-| Tier | Follower Range | Goal |
-|------|---------------|------|
-| Micro | 10K – 100K | Local reach, authenticity |
-| Macro | 100K – 500K | Wider brand awareness |
-| Mega | 500K+ | Mass visibility |
+**Collaborating with local influencers (multiple Macro & Micro)** 
+We can collaborate with the influencers with the following of 10k to 100k, then 100k to 500k and so on. This will help our brand with branding and sales.
 
-- Use **barter/product gifting** for micro-influencers to keep costs low
-- Run **giveaways** through influencers to shift brand perception
-- Offer **exclusive coupon codes** for remarketing without repeat ad spend
+**Giveaway to Influencers and their Followers**
+Providing our products to consumers via influencers can help in changing brand perception.
+
+**Exclusive Coupons and Discounts**
+Providing these discount coupons and exclusive offers will help us in retaining our customers. This will also play a role in remarketing by not spending money again and again on these campaigns.
+
 
 #### E-commerce & Online Retail
 Run **PPC (Pay-Per-Click) ads** on e-commerce and online grocery platforms to boost discoverability and sales while CodeX builds brand recognition.

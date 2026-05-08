@@ -127,7 +127,7 @@ They offer maximum audience reach in the shortest time, making them ideal for a 
 
 - **980** respondents were aware of CodeX
 - **455** had heard about the brand and provided taste ratings
-- Rating of **3.3/5** is on par with the industry benchmark — not a red flag, but room to grow
+- This rating of 3.3 is the industry avg rating as well.
 
 <img width="291" height="146" alt="image" src="https://github.com/user-attachments/assets/0940b4cd-c7c0-4635-a84c-8937fcff02ef" />
 
@@ -137,7 +137,8 @@ They offer maximum audience reach in the shortest time, making them ideal for a 
 
 > Neutral and negative brand perceptions **outnumber positive ones** across most cities.
 
-Improving positive brand perception is a key priority for the marketing team. City-level targeting and local campaigns can help shift sentiment.
+This Data shows people’s perception of CodeX as a brand in different cities.
+The neutral and negative responses are combined in this visual as they both are great in numbers than the positive responses. Hence improving the Positive response is one area where the marketing should focus on.
 
 <img width="438" height="341" alt="image" src="https://github.com/user-attachments/assets/9d4c2ac3-0c57-4af0-82de-0d7239c265f2" />
 
@@ -160,7 +161,7 @@ Energy drinks are consumed most commonly during:
 - **Sports / Exercise**
 - **Studying / Working Late**
 
-Youth is the dominant consumer group in both situations.
+Also, this data shows youth is consuming these drinks more.
 
 <img width="559" height="338" alt="image" src="https://github.com/user-attachments/assets/8c29af4d-4f01-4f55-bc72-bccd93befad2" />
 
@@ -170,11 +171,7 @@ Youth is the dominant consumer group in both situations.
 
 **Price Range:**
 
-| Price Range | Consumer Preference |
-|-------------|-------------------|
-| ₹50 – ₹99 | **43%** of consumers |
-| ₹100 – ₹150 | Significant share |
-| Above ₹150 | Lower preference |
+43% of the consumers buy a product if the price is between 50-99.
 
 **Packaging:**
 
@@ -195,16 +192,20 @@ Youth is the dominant consumer group in both situations.
 - Add **natural ingredients**, reduce sugar content, and expand flavor options
 - Invest in improving the **positive brand perception rate**
 
+<img width="696" height="333" alt="image" src="https://github.com/user-attachments/assets/e0cacf45-6fa4-45cf-9f4e-e1b971608a23" />
+
+
 ---
 
 ### Ideal Pricing Strategy
 
-| Cities | Recommended Price Range |
-|--------|------------------------|
-| Ahmedabad, Chennai, Hyderabad, Kolkata, Lucknow, Mumbai, Pune | ₹50 – ₹99 |
-| Remaining Cities | Up to ₹150 |
+The price range expected by consumers lies between 50 to 150.
 
-💡 **Alternative strategy:** If price changes conflict with brand positioning, offer **bundle deals** (e.g., 6-can packs at a discounted rate) to increase volume without adjusting unit price.
+In cities like Ahmedabad, Chennai, Hyderabad, Kolkata, Lucknow, Mumbai, and Pune consumers expect the price range to be between 50 to 99.
+
+While in the rest of the cities, people are willing to pay up to 150.
+
+ **Alternative strategy:** If price changes conflict with brand positioning, offer **bundle deals** (e.g., 6-can packs at a discounted rate) to increase volume without adjusting unit price.
 
 ---
 

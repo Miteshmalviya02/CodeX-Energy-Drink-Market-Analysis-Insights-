@@ -222,16 +222,16 @@ Also, each of these cities celebrates multiple festivals throughout the year. We
 Target the 15–30 age group, which is highly active on social platforms. Running paid social ads will effectively reach the core consumer demographic.
 
 #### Influencer Marketing
-**Cheap** 
+- **Cheap** 
 Influencer marketing can be very cheap we set a strategy to target influencers and their audiences. We can work on a barter system or by paying some amount to the influencers.
 
-**Collaborating with local influencers (multiple Macro & Micro)** 
+- **Collaborating with local influencers (multiple Macro & Micro)** 
 We can collaborate with the influencers with the following of 10k to 100k, then 100k to 500k and so on. This will help our brand with branding and sales.
 
-**Giveaway to Influencers and their Followers**
+- **Giveaway to Influencers and their Followers**
 Providing our products to consumers via influencers can help in changing brand perception.
 
-**Exclusive Coupons and Discounts**
+- **Exclusive Coupons and Discounts**
 Providing these discount coupons and exclusive offers will help us in retaining our customers. This will also play a role in remarketing by not spending money again and again on these campaigns.
 
 

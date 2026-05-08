@@ -74,7 +74,7 @@ Out of 10,000 respondents, **6,038 identified as male**, making them the dominan
 
 Caffeine's well-known benefits — increased alertness and attention — make it the top expectation among consumers when choosing an energy drink.
 
-📊 *[Chart: Preferred Ingredients]*
+<img width="643" height="375" alt="image" src="https://github.com/user-attachments/assets/13bcd51b-5f66-451d-92af-bf1ef0e83dbc" />
 
 ---
 
@@ -82,7 +82,8 @@ Caffeine's well-known benefits — increased alertness and attention — make it
 
 > **Compact & Portable Cans** lead packaging preferences, followed by **Innovative Bottle Designs**.
 
-📊 *[Chart: Packaging Preferences]*
+<img width="653" height="326" alt="image" src="https://github.com/user-attachments/assets/e3c928e3-383b-43f6-812f-e51a17e758d3" />
+
 
 ---
 
@@ -90,13 +91,9 @@ Caffeine's well-known benefits — increased alertness and attention — make it
 
 ### Who are the current market leaders?
 
-| Rank | Brand | Position |
-|------|-------|----------|
-| 1 | **Cola Coka** | Market Leader |
-| 2 | **Bepsi** | Second Place |
-| 3+ | Others | Trailing |
+Cola Coka is leading the market followed by Bepsi. The data shows there more respondents for Cola Coka than the other brands.
 
-📊 *[Chart: Market Share by Brand]*
+<img width="638" height="333" alt="image" src="https://github.com/user-attachments/assets/ddc2708f-cab4-417d-bc34-afc0fb2e810e" />
 
 ---
 
@@ -106,7 +103,7 @@ Caffeine's well-known benefits — increased alertness and attention — make it
 
 This is a critical insight — CodeX must invest in building a trustworthy, recognizable brand identity in the Indian market.
 
-📊 *[Chart: Reasons for Brand Preference]*
+<img width="785" height="273" alt="image" src="https://github.com/user-attachments/assets/84a59e11-106b-406f-8901-07da0a9cb1dc" />
 
 ---
 

@@ -36,10 +36,11 @@ The goal of this analysis is to convert raw survey results into **actionable ins
 
 > **60% of consumers are male.**
 
+Out of 10,000 respondents, **6,038 identified as male**, making them the dominant consumer group for energy drinks.
+
+
 <img width="657" height="270" alt="image" src="https://github.com/user-attachments/assets/98eaba8e-07fc-4973-b960-4545a8757098" />
 
-
-Out of 10,000 respondents, **6,038 identified as male**, making them the dominant consumer group for energy drinks.
 
 ---
 

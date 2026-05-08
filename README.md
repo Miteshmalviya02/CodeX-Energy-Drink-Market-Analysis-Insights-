@@ -115,16 +115,6 @@ This is a critical insight — CodeX must invest in building a trustworthy, reco
 
 They offer maximum audience reach in the shortest time, making them ideal for a brand in its early growth phase.
 
-### How effective are different marketing strategies?
-
-| Channel | Effectiveness |
-|---------|--------------|
-| Online Ads | Highest Reach |
-| Social Media | Very High (Youth) |
-| Influencer Marketing | High (Cost-effective) |
-| E-commerce / Online Retail | Moderate–High |
-| Guerrilla Marketing | Targeted / Local |
-
 <img width="598" height="279" alt="image" src="https://github.com/user-attachments/assets/af3f2dd2-28f2-4780-9063-429c63f7443c" />
 
 ---
@@ -139,7 +129,7 @@ They offer maximum audience reach in the shortest time, making them ideal for a 
 - **455** had heard about the brand and provided taste ratings
 - Rating of **3.3/5** is on par with the industry benchmark — not a red flag, but room to grow
 
-📊 *[Chart: Brand Rating Comparison]*
+<img width="291" height="146" alt="image" src="https://github.com/user-attachments/assets/0940b4cd-c7c0-4635-a84c-8937fcff02ef" />
 
 ---
 
@@ -149,7 +139,7 @@ They offer maximum audience reach in the shortest time, making them ideal for a 
 
 Improving positive brand perception is a key priority for the marketing team. City-level targeting and local campaigns can help shift sentiment.
 
-📊 *[Chart: City-wise Brand Perception]*
+<img width="438" height="341" alt="image" src="https://github.com/user-attachments/assets/9d4c2ac3-0c57-4af0-82de-0d7239c265f2" />
 
 ---
 
@@ -159,7 +149,7 @@ Improving positive brand perception is a key priority for the marketing team. Ci
 
 > **Supermarkets** are the most preferred purchase location.
 
-📊 *[Chart: Purchase Location Preferences]*
+<img width="638" height="371" alt="image" src="https://github.com/user-attachments/assets/fb5167a3-95bf-4ad6-b1d3-ab5f287d036e" />
 
 ---
 
@@ -172,7 +162,7 @@ Energy drinks are consumed most commonly during:
 
 Youth is the dominant consumer group in both situations.
 
-📊 *[Chart: Consumption Situations]*
+<img width="559" height="338" alt="image" src="https://github.com/user-attachments/assets/8c29af4d-4f01-4f55-bc72-bccd93befad2" />
 
 ---
 
@@ -191,32 +181,11 @@ Youth is the dominant consumer group in both situations.
 - **40%** of consumers are satisfied with current packaging
 - **39%** are open to **Limited Edition Packaging**
 
-📊 *[Chart: Price Range Preferences]*
-📊 *[Chart: Packaging Change Openness]*
+<img width="1315" height="360" alt="image" src="https://github.com/user-attachments/assets/11b57632-7f50-4d17-9fff-20be727d8dd6" />
 
 ---
 
-## 7. Product Development
-
-### Which area needs the most attention?
-
-> **Availability is the biggest growth lever for CodeX.**
-
-| Focus Area | Current Status | Priority |
-|------------|---------------|----------|
-| Availability | ~20% buy due to availability | **HIGH** |
-| Brand Perception | Only 219/980 positive | **HIGH** |
-| Taste | 3.3 — Industry Average | Medium |
-
-- Only **219 out of 980** CodeX-aware respondents have a **positive brand perception**
-- Taste ratings are on par with industry standards — not an immediate concern
-- **Availability** is a major sales driver that CodeX needs to urgently address
-
-📊 *[Chart: Product Development Priority Areas]*
-
----
-
-## 8. Recommendations for CodeX
+## 7. Recommendations for CodeX
 
 ### Immediate Product Improvements
 

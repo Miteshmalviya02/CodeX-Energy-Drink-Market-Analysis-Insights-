@@ -125,7 +125,7 @@ They offer maximum audience reach in the shortest time, making them ideal for a 
 | E-commerce / Online Retail | Moderate–High |
 | Guerrilla Marketing | Targeted / Local |
 
-📊 *[Chart: Marketing Channel Effectiveness]*
+<img width="598" height="279" alt="image" src="https://github.com/user-attachments/assets/af3f2dd2-28f2-4780-9063-429c63f7443c" />
 
 ---
 

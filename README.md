@@ -6,7 +6,7 @@
 ## Table of Contents
 
 1. [About The Project](#about-the-project)
-2. [Key Insights Recommendation](#Key-Insights-Recommendations)
+2. [Key Insights & Recommendations](#key-insights--recommendations)
 3. [Demographic Insights](#1-demographic-insights)
 4. [Consumer Preferences](#2-consumer-preferences)
 5. [Competition Analysis](#3-competition-analysis)

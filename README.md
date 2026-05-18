@@ -16,7 +16,7 @@
 
 ---
 
-## About The Project
+ About The Project
 
 **CodeX** is a German beverage company that recently launched its energy drink across **10 cities in India**. To better understand the market, CodeX conducted a large-scale consumer survey with **10,000 respondents**, gathering data on:
 
@@ -29,6 +29,23 @@ The goal of this analysis is to convert raw survey results into **actionable ins
 
 ---
 
+## Key Insights & Recommendations
+
+Top Findings
+- Brand awareness is critically low — visibility is the #1 problem to solve
+- Consumers pick competitors mainly due to brand reputation, not product quality
+- Online ads reach more youth (15–30) than any other channel
+- Supermarkets are the top purchase point — retail presence needs improvement
+- Caffeine & vitamins are the most expected ingredients
+
+Key Recommendations
+
+- Run online & social media ads targeting males aged 15–30
+- Partner with micro & macro influencers on barter or paid model
+- Expand supermarket availability across all 10 cities
+- Launch limited edition packaging to attract first-time buyers
+- Offer festival gift packs & bundle deals to drive volume
+---
 ## 1. Demographic Insights
 
 ### Who prefers energy drinks more?

@@ -6,17 +6,18 @@
 ## Table of Contents
 
 1. [About The Project](#about-the-project)
-2. [Demographic Insights](#1-demographic-insights)
-3. [Consumer Preferences](#2-consumer-preferences)
-4. [Competition Analysis](#3-competition-analysis)
-5. [Marketing Channels & Brand Awareness](#4-marketing-channels--brand-awareness)
-6. [Brand Penetration](#5-brand-penetration)
-7. [Purchase Behavior](#6-purchase-behavior)
-8. [Recommendations](#7-recommendations-for-codex)
+2. [Key Insights Recommendation](#Key-Insights-Recommendations)
+3. [Demographic Insights](#1-demographic-insights)
+4. [Consumer Preferences](#2-consumer-preferences)
+5. [Competition Analysis](#3-competition-analysis)
+6. [Marketing Channels & Brand Awareness](#4-marketing-channels--brand-awareness)
+7. [Brand Penetration](#5-brand-penetration)
+8. [Purchase Behavior](#6-purchase-behavior)
+9. [Recommendations](#7-recommendations-for-codex)
 
 ---
 
- About The Project
+## About The Project
 
 **CodeX** is a German beverage company that recently launched its energy drink across **10 cities in India**. To better understand the market, CodeX conducted a large-scale consumer survey with **10,000 respondents**, gathering data on:
 

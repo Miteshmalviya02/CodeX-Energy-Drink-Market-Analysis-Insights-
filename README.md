@@ -33,11 +33,18 @@ The goal of this analysis is to convert raw survey results into **actionable ins
 ## Key Insights & Recommendations
 
 Top Findings
-- Brand awareness is critically low — visibility is the #1 problem to solve
-- Consumers pick competitors mainly due to brand reputation, not product quality
-- Online ads reach more youth (15–30) than any other channel
-- Supermarkets are the top purchase point — retail presence needs improvement
-- Caffeine & vitamins are the most expected ingredients
+- Diagnosed a 9.8% brand awareness gap across 10 cities — only 980 of 10,000 respondents had heard of CodeX
+- 70% of demand is concentrated in the 15–30 age group, with 60% being male
+- Consumers choose competitors due to brand reputation, not price or product quality
+- Online ads reached 3,373+ youth respondents — more than all other channels combined
+- Neutral + negative brand perception outnumbers positive responses across most cities
+- CodeX holds a 3.3/5 average rating — matching the industry average but with room to grow
+- 43% of consumers prefer a price range of ₹50–99 per can
+- Supermarkets are the most preferred purchase location across all cities
+- Energy drink consumption peaks during sports/exercise and studying/working late
+- Caffeine & vitamins are the most expected ingredients among consumers
+- 39% of consumers are open to limited edition packaging — a low-cost acquisition opportunity
+- Compact & portable cans are the most preferred packaging format
 
 Key Recommendations
 
@@ -46,6 +53,7 @@ Key Recommendations
 - Expand supermarket availability across all 10 cities
 - Launch limited edition packaging to attract first-time buyers
 - Offer festival gift packs & bundle deals to drive volume
+  
 ---
 ## 1. Demographic Insights
 

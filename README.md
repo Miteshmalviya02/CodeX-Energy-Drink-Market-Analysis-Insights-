@@ -12,8 +12,7 @@
 5. [Marketing Channels & Brand Awareness](#4-marketing-channels--brand-awareness)
 6. [Brand Penetration](#5-brand-penetration)
 7. [Purchase Behavior](#6-purchase-behavior)
-8. [Product Development](#7-product-development)
-9. [Recommendations](#8-recommendations-for-codex)
+8. [Recommendations](#7-recommendations-for-codex)
 
 ---
 
@@ -251,8 +250,3 @@ Deploy creative, on-ground campaigns in high-footfall areas to generate buzz and
 - **60%** are male
 - They are active on social media and respond well to online advertising
 - Common use cases (sports, studying) align with this demographic's lifestyle
-
----
-
-*This report was prepared by the Data Analytics Team for CodeX's Marketing Division.*
-*Survey Base: 10,000 respondents across 10 Indian cities.*
